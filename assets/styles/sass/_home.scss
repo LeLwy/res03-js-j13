@@ -1,0 +1,23 @@
+body{
+    
+    &>header{
+        
+        width: 100vw;
+        height: 10vh;
+        background-color: red;
+    }
+    
+    &>main{
+        
+        width: 100vw;
+        height: 85vh;
+        background-color: yellow;
+    }
+    
+    &>footer{
+        
+        width: 100vw;
+        height: 5vh;
+        background-color: green;
+    }
+}
